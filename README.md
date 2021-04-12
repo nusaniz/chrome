@@ -31,3 +31,7 @@ https://chrome.google.com/webstore/detail/url-shortener/lficfkhdmdhjejgdnifkgmgd
 
 - dualles
 https://chrome.google.com/webstore/detail/dualless/bgdpkilkheacbboffppjgceiplijhfpd?hl=id
+
+- wappalyzer
+https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg/related?hl=id
+https://www.wappalyzer.com/lookup/
