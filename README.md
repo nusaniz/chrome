@@ -35,3 +35,6 @@ https://chrome.google.com/webstore/detail/dualless/bgdpkilkheacbboffppjgceiplijh
 - wappalyzer
 https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg/related?hl=id
 https://www.wappalyzer.com/lookup/
+
+- web analyzer io
+https://webanalyzer.io/
